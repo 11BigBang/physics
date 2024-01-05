@@ -2,7 +2,7 @@
 William "Bryant" Martin
 Johns Hopkins University - MS Applied Physics
 Spring 2023, Electromagnetics
-Self Check 10, Problem 1 & 2
+Self Check 10, Problem 1-5
 """
 
 import matplotlib.pyplot as plt
